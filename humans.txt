@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Richard Agarici richard@git.training @torima
 
 # THANKS
 
