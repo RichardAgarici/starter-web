@@ -1,3 +1,4 @@
 .DS_Store
 log/ 
 # this will ignore every .log files.
+*.orig
